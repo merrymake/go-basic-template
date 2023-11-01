@@ -1,0 +1,4 @@
+github.com/merrymake/go-service-library v0.0.0-20231031221307-38db2803b0fa h1:lHFRmycTBRekzoUeJBHNApk72MAtb3XfIYUWjo/dil0=
+github.com/merrymake/go-service-library v0.0.0-20231031221307-38db2803b0fa/go.mod h1:IfIPXHK/CqvnaGje2+cGOsZgdaIL/X0nzFjM7FH79Bg=
+github.com/merrymake/go-service-library v0.0.0-20231231130413-9ea8d14ef442 h1:ERdyZpcxW0+6i167O3G1YPf1Rcwu0GYTiq4Wr/vw4VU=
+github.com/merrymake/go-service-library v0.0.0-20231231130413-9ea8d14ef442/go.mod h1:IfIPXHK/CqvnaGje2+cGOsZgdaIL/X0nzFjM7FH79Bg=
